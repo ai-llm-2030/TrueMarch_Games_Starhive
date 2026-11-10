@@ -16,6 +16,13 @@
   <img src="assets/screenshot-play.png" alt="Starhive — gameplay" width="820">
 </p>
 
+## More screenshots
+
+<table>
+<tr><td width="50%"><img src="assets/screenshot-map.png" alt="The sector map"><br><sub>The sector map</sub></td><td width="50%"><img src="assets/screenshot-hangar.png" alt="The Hangar: hulls, loadouts and upgrades"><br><sub>The Hangar: hulls, loadouts and upgrades</sub></td></tr>
+<tr><td width="50%"><img src="assets/screenshot-result.png" alt="Endless: how far you got"><br><sub>Endless: how far you got</sub></td><td width="50%"><img src="assets/screenshot-stage-result.png" alt="A stage result, with a tip"><br><sub>A stage result, with a tip</sub></td></tr>
+</table>
+
 ## Controls
 
 | Keys | Action |
